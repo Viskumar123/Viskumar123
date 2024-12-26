@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viskumar123
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React Js 
+- 👀 I’m interested in playing with Data
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
